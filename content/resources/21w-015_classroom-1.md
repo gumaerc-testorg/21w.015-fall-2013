@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/15ec46b36890b57fb1bb50652be18d37_21W-015_classroom-1.jpg
+file: /media/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/15ec46b36890b57fb1bb50652be18d37_21W-015_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 21W-015_classroom-1.jpg
 uid: 15ec46b3-6890-b57f-b1bb-50652be18d37

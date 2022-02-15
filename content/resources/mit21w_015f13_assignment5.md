@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignment 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/fcd6815a6bb3eaa9905c3d8d00e51a3a_MIT21W_015F13_Assignment5.pdf
+file: /media/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/fcd6815a6bb3eaa9905c3d8d00e51a3a_MIT21W_015F13_Assignment5.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar, Readings, and Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Writing About Sports, Session 5 Assignment
 uid: fcd6815a-6bb3-eaa9-905c-3d8d00e51a3a

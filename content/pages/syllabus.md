@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2db67e25-7c52-d43a-df30-221e09d68622
 ---
@@ -143,7 +145,7 @@ Revision is the heart and soul of this class. On first drafts, you'll receive am
 
 *   Essay 3 _**must**_ be revised twice; you will receive a letter grade on each draft.
 *   Essays 1 and 2 **_may_** be re-revised for the Portfolio.
-*   The grade for the re-revised writing assignment will replace the grade for the 2nd draft.
+*   The grade for the re-revised writing assignment will replace the grade for the 2{{< sup "nd" >}} draft.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -209,8 +211,8 @@ Class Participation
 Late Drafts
 -----------
 
-*   1st drafts that are late or incomplete\* will be penalized by a half grade.
-*   2nd draft deadlines may be negotiated with me.
+*   1{{< sup "st" >}} drafts that are late or incomplete\* will be penalized by a half grade.
+*   2{{< sup "nd" >}} draft deadlines may be negotiated with me.
 
 \*_What I mean by **incomplete**:_
 

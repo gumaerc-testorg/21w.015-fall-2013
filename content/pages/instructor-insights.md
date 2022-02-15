@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 33540496-27de-ca69-9bfb-1460bd06d411
 ---
@@ -49,20 +51,6 @@ None.
 ### Offered
 
 Every fall semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with chalkboards, several rows of flat tables for students, and a small table at the front for the instructor.]({{< resource_file 15ec46b3-6890-b57f-b1bb-50652be18d37 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course was taught in a seminar room with a capacity of 30, moveable flat tables and chairs, and a video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

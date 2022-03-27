@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar, Readings, and Assignments
 parent_type: CourseSection
+parent_uid: 18a32e2d-629c-3de0-2173-a04e88a22849
 resourcetype: Document
 title: Book List for Review Assignment
 uid: 0e1ec41b-f4d2-aa29-b64e-a735ff171679

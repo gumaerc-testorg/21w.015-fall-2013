@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar, Readings, and Assignments
 parent_type: CourseSection
+parent_uid: 18a32e2d-629c-3de0-2173-a04e88a22849
 resourcetype: Document
 title: Rubric for Evaluating Oral Presentations
 uid: c18e1177-4771-19ca-d5be-b876dac8ed28

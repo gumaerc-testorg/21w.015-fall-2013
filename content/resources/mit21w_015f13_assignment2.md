@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar, Readings, and Assignments
 parent_type: CourseSection
+parent_uid: 18a32e2d-629c-3de0-2173-a04e88a22849
 resourcetype: Document
 title: Writing About Sports, Session 2 Assignment
 uid: ca7b0f6a-2141-61fc-92f5-0ede8b5be4e1

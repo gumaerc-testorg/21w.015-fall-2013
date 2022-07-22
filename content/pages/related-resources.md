@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to resources on writing and research.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 099f6bf9-f4a1-4551-4e1a-9d3204c8922e
 ---

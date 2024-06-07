@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding assignment 13. '
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/a6ca54b099783cef70ba7e110567fb05_MIT21W_015F13_Assignment13.pdf
+file_size: 993111
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

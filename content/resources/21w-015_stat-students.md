@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/7674b6458ad6a5497f8f75575e73394d_21W-015_stat-students.png
+file_size: 2772
 file_type: image/png
 image_metadata:
   caption: ''

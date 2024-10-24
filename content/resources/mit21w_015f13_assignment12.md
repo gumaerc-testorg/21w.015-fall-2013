@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignment 12.
-file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/c85d1c43568ce2326546f9ba7240f25b_MIT21W_015F13_Assignment12.pdf
+file: /ol-ocw-studio-app/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/c85d1c43568ce2326546f9ba7240f25b_MIT21W_015F13_Assignment12.pdf
 file_size: 320134
 file_type: application/pdf
 learning_resource_types: []

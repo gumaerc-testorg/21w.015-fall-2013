@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding reunion. '
-file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/e74fcd9ba3ccdda7d1dc4c1efa072113_MIT21W_015F13_ChiofReuFin1.pdf
+file: /ol-ocw-studio-app/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/e74fcd9ba3ccdda7d1dc4c1efa072113_MIT21W_015F13_ChiofReuFin1.pdf
 file_size: 564726
 file_type: application/pdf
 learning_resource_types: []

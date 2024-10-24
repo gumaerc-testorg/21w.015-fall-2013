@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding style matters.
-file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/94d493da89d54f7a5b28a3e4153f2e2c_MIT21W_015F13_StylMat2013.pdf
+file: /ol-ocw-studio-app/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/94d493da89d54f7a5b28a3e4153f2e2c_MIT21W_015F13_StylMat2013.pdf
 file_size: 782574
 file_type: application/pdf
 learning_resource_types: []

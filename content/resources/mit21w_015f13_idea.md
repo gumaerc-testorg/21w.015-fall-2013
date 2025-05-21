@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Idea and Essay.
-file: /ol-ocw-studio-app/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/0b74699a8f3214a8d19e8ac13da42bb1_MIT21W_015F13_IDEA.pdf
+file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/0b74699a8f3214a8d19e8ac13da42bb1_MIT21W_015F13_IDEA.pdf
 file_size: 148137
 file_type: application/pdf
 learning_resource_types: []

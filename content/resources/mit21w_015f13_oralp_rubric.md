@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Rubric for Evaluating Oral
   Presentations.
-file: /ol-ocw-studio-app/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/c18e1177477119cad5beb876dac8ed28_MIT21W_015F13_OralP_rubric.pdf
+file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/c18e1177477119cad5beb876dac8ed28_MIT21W_015F13_OralP_rubric.pdf
 file_size: 401616
 file_type: application/pdf
 learning_resource_types: []

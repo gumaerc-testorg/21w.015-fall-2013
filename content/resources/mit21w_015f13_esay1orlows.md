@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding the cage. '
-file: /ol-ocw-studio-app/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/52316f1eab617b7b4f35c9d931e8b6d3_MIT21W_015F13_Esay1Orlows.pdf
+file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/52316f1eab617b7b4f35c9d931e8b6d3_MIT21W_015F13_Esay1Orlows.pdf
 file_size: 563059
 file_type: application/pdf
 learning_resource_types: []

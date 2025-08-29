@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding format for essays. '
-file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/358ab1244bd91277c7670402c15ea3f5_MIT21W_015F13_FormtforEssa.pdf
+file: /ol-ocw-studio-app/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/358ab1244bd91277c7670402c15ea3f5_MIT21W_015F13_FormtforEssa.pdf
 file_size: 192046
 file_type: application/pdf
 learning_resource_types: []
